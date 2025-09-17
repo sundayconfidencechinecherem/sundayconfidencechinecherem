@@ -17,7 +17,7 @@ Git profile
 [<img align="left" alt="confidencechinecherem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/scchinecherem
-[youtube]: https://www.youtube.com/c/confidencesundaychinecherem
+[youtube]: https://youtube.com/@ConfidenceSundaychinecherem
 [linkedin]: https://linkedin.com/in/sconfidencechinecherem
 
 <!--
