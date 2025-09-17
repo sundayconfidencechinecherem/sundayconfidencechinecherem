@@ -1,6 +1,6 @@
 Git profile 
 
-<h1>Hi, I'm Confidence! <br/><a href="https://github.com/sundayconfidencechinecherem">Software Developer </a> and <a href="https://www.linkedin.com/in/sconfidencechinecherem/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Confidence Chinecherem! <br/><a href="https://github.com/sundayconfidencechinecherem">Software Developer </a> and <a href="https://www.linkedin.com/in/sconfidencechinecherem/">Cybersecurity Enthusiast</a></h1>
 
 <h2> Software Development Projects:</h2>
 
