@@ -1,7 +1,7 @@
 # Hi there, I'm Confidence Chinecherem! 
 
-[<img src="https://confidencechinecherem.com/portfolio/static/media/sconfidence.30dca47559e98d856659.jpg" 
-      width="400" 
+[<img src="https://confidencechinecherem.com/portfolio/confidence-about.png" 
+      width="800" 
       height="400">](https://confidencechinecherem.com/portfolio)
 
 ## About Me 
