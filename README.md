@@ -6,6 +6,7 @@
 
 ## About Me 
 
+
 I'm a **Full-Stack Software Developer** and **CyberSecurity Enthusiast**  with experience in **HTML,CSS,JavaScript, React.JS, Responsive Design, Bootstrap, REST API, MongoDB, Firebase and Node.JS**. I'm passionate about turning ideas into real and functional solutions, solving complex problems, learning new skills, and collaborating with diverse teams.
 
 - Currently learning: **TypeScript, Next.js, SCSS**
@@ -49,3 +50,18 @@ React**. This project demonstrates my ability to **HTML, CSS and JavaScript**. Y
 <img align="left" alt="confidencechinecherem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="confidencechinecherem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="confidencechinecherem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+
+
+
+<table> 
+      <tr> 
+            <td width="50%"> 
+                  <h3>Productivity & Consistency</h3> 
+      <img src="https://github-readme-stats.vercel.app/api?username=sundayconfidencec&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td width="50%"> 
+            <h3>Contribution Streak</h3> 
+            <img src="https://streak-stats.demolab.com/?user=sundayconfidencechinecherem&theme=radical&hide_border=true&fire=DD2727&currStreakLabel=DD2727" alt="GitHub Streak" /> </td> </tr> 
+      <tr> 
+            <td width="50%"> 
+                  <h3>Technical Stack</h3> 
+                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundayconfidencechinecherem&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" /> </td> <td width="50%"> <h3>Activity Overview</h3> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sundayconfidencechinecherem&theme=github&hide_border=true&area=true" alt="Activity Graph" /> </td> </tr> </table>
