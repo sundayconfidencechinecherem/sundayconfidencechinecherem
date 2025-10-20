@@ -1,36 +1,51 @@
-Git profile 
+# Hi there, I'm Confidence Chinecherem! 
 
-<h1>Hi, I'm Confidence Chinecherem! <br/><a href="https://github.com/sundayconfidencechinecherem">Software Developer </a> and <a href="https://www.linkedin.com/in/sconfidencechinecherem/">Cybersecurity Enthusiast</a></h1>
+[<img src="https://confidencechinecherem.com/portfolio/static/media/sconfidence.30dca47559e98d856659.jpg" 
+      width="400" 
+      height="400">](https://confidencechinecherem.com/portfolio)
 
-<h2> Software Development Projects:</h2>
+## About Me 
 
-- <b>Neche's Laundry App </b>
-  - https://github.com/sundayconfidencechinecherem/Laundry-App
-- <b>Excellent Properties</b>
-  - <b>https://github.com/sundayconfidencechinecherem/Excellent-Properties</b>
+I'm a **Full-Stack Software Developer** and **CyberSecurity Enthusiast**  with experience in **HTML,CSS,JavaScript, React.JS, Responsive Design, Bootstrap, REST API, MongoDB, Firebase and Node.JS**. I'm passionate about turning ideas into real and functional solutions, solving complex problems, learning new skills, and collaborating with diverse teams.
+
+- Currently learning: **TypeScript, Next.js, SCSS**
+- Working on: **AirBNB Clone Project**
+- Languages: **Programming Languages: Javascript, Python and Human Languages: English, Igbo**
+- How to reach me: **sconfidencechinecherem@gmail.com**
+- Fun fact: **I love watching video on mute**
+
+## My Skills 
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Npm.js](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman.js](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![ReactRouter.js](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux.js](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite.js](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 
-<h2> Connect with me:</h2>
+## Featured Projects
 
-[<img align="left" alt="confidencechinecherem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="confidencechinecherem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="confidencechinecherem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### [Neche's Laundry](https://neches-laundry.netlify.app/)
 
-[twitter]: https://twitter.com/scchinecherem
-[youtube]: https://youtube.com/@ConfidenceSundaychinecherem
-[linkedin]: https://linkedin.com/in/sconfidencechinecherem
+<img src="https://confidencechinecherem.com/portfolio/static/media/nechelaundry.a1033603be6f8ed2deb2.png" height="200" width="200"/>
 
-<!--
-**confidence/chinecherem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Neche's Laundry** is a **modern, responsive web app, that delivers a seamless user experience across all devices. The platform offers intuitive navigation, detailed service information, and a user-friendly interface, reflecting the brand's commitment to quality and customer satisfaction.** built with **HTML, CSS and JavaScript
+React**. This project demonstrates my ability to **HTML, CSS and JavaScript**. You can check out the repository [here](https://github.com/sundayconfidencechinecherem/Laundry-App).
 
-Here are some ideas to get you started:
+### [Excellent Properties](https://excellent-properties.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://confidencechinecherem.com/portfolio/static/media/excellentproperties.64056ca7ebf92de6750c.png" height="200" width="200"/>
+
+**Excellent Properties** is a **responsive and modern real estate web app built to showcase property listings, highlight featured homes, and provide an intuitive user experience. The platform includes easy navigation, property search filters, and detailed property pages, helping users explore and engage with properties seamlessly.** built with **HTML, CSS and JavaScript**. This project showcases my skills in **HTML, CSS and JavaScript**. You can check out the repository [here](https://github.com/sundayconfidencechinecherem/Excellent-Properties).
+
+## Get in Touch
+
+<a href="https://confidencechinecherem.com/portfolio/">🌐</a>
+<img align="left" alt="confidencechinecherem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="confidencechinecherem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="confidencechinecherem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
