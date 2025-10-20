@@ -58,7 +58,7 @@ React**. This project demonstrates my ability to **HTML, CSS and JavaScript**. Y
       <tr> 
             <td width="50%"> 
                   <h3>Productivity & Consistency</h3> 
-      <img src="https://github-readme-stats.vercel.app/api?username=sundayconfidencechinecherem&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </td> <td width="50%"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=sundayconfidencechinecherem&show_icons=true&theme=radical" alt="GitHub Stats" /> </td> <td width="50%"> 
             <h3>Contribution Streak</h3> 
             <img src="https://streak-stats.demolab.com/?user=sundayconfidencechinecherem&theme=radical&hide_border=true&fire=DD2727&currStreakLabel=DD2727" alt="GitHub Streak" /> </td> </tr> 
       <tr> 
