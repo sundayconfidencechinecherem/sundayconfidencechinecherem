@@ -32,14 +32,17 @@ I'm a **Full-Stack Software Developer** and **CyberSecurity Enthusiast**  with e
 
 ### [Neche's Laundry](https://neches-laundry.netlify.app/)
 
-<img src="https://confidencechinecherem.com/portfolio/static/media/nechelaundry.a1033603be6f8ed2deb2.png" height="200" width="200"/>
+
+<img width="1440" height="900" alt="nechelaundry" src="https://github.com/user-attachments/assets/49f1076c-58e3-467c-986b-1c9b4d903b84" />
+
 
 **Neche's Laundry** is a **modern, responsive web app, that delivers a seamless user experience across all devices. The platform offers intuitive navigation, detailed service information, and a user-friendly interface, reflecting the brand's commitment to quality and customer satisfaction.** built with **HTML, CSS and JavaScript
 React**. This project demonstrates my ability to **HTML, CSS and JavaScript**. You can check out the repository [here](https://github.com/sundayconfidencechinecherem/Laundry-App).
 
 ### [Excellent Properties](https://excellent-properties.netlify.app/)
 
-<img src="https://confidencechinecherem.com/portfolio/static/media/excellentproperties.64056ca7ebf92de6750c.png" height="200" width="200"/>
+<img width="1440" height="900" alt="excellentproperties" src="https://github.com/user-attachments/assets/788bd45f-b239-431a-aded-8ddfb59b98f8" />
+
 
 **Excellent Properties** is a **responsive and modern real estate web app built to showcase property listings, highlight featured homes, and provide an intuitive user experience. The platform includes easy navigation, property search filters, and detailed property pages, helping users explore and engage with properties seamlessly.** built with **HTML, CSS and JavaScript**. This project showcases my skills in **HTML, CSS and JavaScript**. You can check out the repository [here](https://github.com/sundayconfidencechinecherem/Excellent-Properties).
 
