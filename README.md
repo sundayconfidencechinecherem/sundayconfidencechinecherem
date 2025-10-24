@@ -1,5 +1,5 @@
 # Hi there, I'm Confidence Chinecherem! 
-<img width="2000" height="600" alt="Purple Abstract Graphic Design LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/c9ad9daa-d9cf-423f-9e77-272d348b5170" />
+<img width="2000" height="600" alt="scc" src="https://github.com/user-attachments/assets/41e22e34-3639-4254-a00f-63f5acd57fd6" />
 
 
 
