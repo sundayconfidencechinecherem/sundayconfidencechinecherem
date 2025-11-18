@@ -1,5 +1,5 @@
 # Hi there, I'm Confidence Chinecherem! 
-<img width="2000" height="600" alt="scc" src="https://github.com/user-attachments/assets/41e22e34-3639-4254-a00f-63f5acd57fd6" />
+<img width="2000" height="600" alt="scc (1)" src="https://github.com/user-attachments/assets/7512792b-7aef-43af-83c0-b095924a03ed" />
 
 
 
