@@ -11,7 +11,7 @@ I'm a **Full-Stack Software Developer** and **CyberSecurity Enthusiast**  with e
 - Currently learning: **TypeScript, Next.js, SCSS**
 - Working on: **AirBNB Clone Project**
 - Languages: **Programming Languages: Javascript, Python and Human Languages: English, Igbo**
-- How to reach me: **sconfidencechinecherem@gmail.com**
+- How to reach me: <a href="mailto:sconfidencechinecherem@gmail.com">📧</a>
 - Fun fact: **I love watching video on mute**
 
 ## My Skills 
