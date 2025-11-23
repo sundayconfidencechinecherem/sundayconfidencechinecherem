@@ -73,7 +73,7 @@ This stage creates a blueprint for a user-friendly and technically sound solutio
 Setup → Build → Iterate → Launch
 Here, ideas turn into polished, production-ready solutions. **Project Setup & Workflow** involves configuring the environment, version control, and sprint tasks. **Secure Development** ensures clean, secure, best-practice coding. Through **Iterative Improvement**, I test, refine, and integrate feedback continuously. Finally, **Deployment & Scalability** delivers optimized, maintainable solutions ready for growth and future updates.
 
-###<img width="7142" height="410" alt="my_engineering_process" src="https://github.com/user-attachments/assets/46c219e0-92be-4d7c-89bb-a07fa6e71a19" />
+### <img width="7142" height="410" alt="my_engineering_process" src="https://github.com/user-attachments/assets/46c219e0-92be-4d7c-89bb-a07fa6e71a19" />
 
 
 <div align="center">  <strong>Fun Fact:</strong> I'm a visual learner who often watches videos on mute to focus more on core structure and patterns.  </div>
