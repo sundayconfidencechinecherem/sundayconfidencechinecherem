@@ -1,5 +1,6 @@
+
 <h1>Hi there, I'm Confidence Chinecherem!</h1> 
-<img width="2000" height="600" alt="scc (2)" src="https://github.com/user-attachments/assets/b857cab1-ad8c-444a-b7f3-5b4e1545032e" />
+<img width="2000" height="600" alt="confidencechinecherem (1)" src="https://github.com/user-attachments/assets/24f2cecc-02ae-479b-b685-9d0656b83e47" />
 
 <h2>About Me</h2>
 
