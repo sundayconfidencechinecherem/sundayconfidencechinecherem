@@ -145,7 +145,7 @@ Visit :
 #
 
 <div align="center">
-  <footer><strong>© 2025 Confidence. All rights reserved.</strong></footer>
+  <footer><strong>© 2026 Confidence. All rights reserved.</strong></footer>
   <p><em>Coding Dreams to Reality</em></p>
 </div>
 
